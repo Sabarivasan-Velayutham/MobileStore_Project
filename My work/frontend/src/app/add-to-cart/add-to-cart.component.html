@@ -1,0 +1,177 @@
+<div class="form-container">
+  <h1>Order</h1>
+
+  <form [formGroup]="form" (ngSubmit)="submit()">
+    <table class="table-form">
+      <tr>
+        <td><label for="userId">User ID</label></td>
+        <td>
+          <input
+            type="number"
+            id="userId"
+            class="form-control"
+            formControlName="userId"
+            required
+            readonly
+          />
+          <div
+            *ngIf="form.get('userId')?.invalid && form.get('userId')?.touched"
+            class="error-message"
+          >
+            User ID is required.
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><label for="itemId">Item ID</label></td>
+        <td>
+          <input
+            type="number"
+            id="itemId"
+            class="form-control"
+            formControlName="itemId"
+            required
+            readonly
+          />
+          <div
+            *ngIf="form.get('itemId')?.invalid && form.get('itemId')?.touched"
+            class="error-message"
+          >
+            Item ID is required.
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><label for="itemName">Item Name</label></td>
+        <td>
+          <input
+            type="text"
+            id="itemName"
+            class="form-control"
+            formControlName="itemName"
+            required
+            readonly
+          />
+          <div
+            *ngIf="form.get('itemName')?.invalid && form.get('itemName')?.touched"
+            class="error-message"
+          >
+            Item Name is required.
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><label for="itemStorage">Item Storage</label></td>
+        <td>
+          <input
+            type="text"
+            id="itemStorage"
+            class="form-control"
+            formControlName="itemStorage"
+            required
+          />
+          <div
+            *ngIf="form.get('itemStorage')?.invalid && form.get('itemStorage')?.touched"
+            class="error-message"
+          >
+            Item Storage is required.
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><label for="itemColour">Item Colour</label></td>
+        <td>
+          <input
+            type="text"
+            id="itemColour"
+            class="form-control"
+            formControlName="itemColour"
+            required
+          />
+          <div
+            *ngIf="form.get('itemColour')?.invalid && form.get('itemColour')?.touched"
+            class="error-message"
+          >
+            Item Colour is required.
+          </div>
+        </td>
+      </tr>
+      
+      
+      <!-- Add similar lines for other fields (itemStorage, itemColour, etc.) -->
+      <tr>
+        <td><label for="quantity">Quantity</label></td>
+        <td>
+          <input
+            type="number"
+            id="quantity"
+            class="form-control"
+            formControlName="quantity"
+            required
+          />
+          <div
+            *ngIf="form.get('quantity')?.invalid && form.get('quantity')?.touched"
+            class="error-message"
+          >
+            Quantity is required.
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><label for="userName">User Name</label></td>
+        <td>
+          <input
+            type="text"
+            id="userName"
+            class="form-control"
+            formControlName="userName"
+            required
+          />
+          <div
+            *ngIf="form.get('userName')?.invalid && form.get('userName')?.touched"
+            class="error-message"
+          >
+            User Name is required.
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><label for="mobileNumber">Mobile Number</label></td>
+        <td>
+          <input
+            type="text"
+            id="mobileNumber"
+            class="form-control"
+            formControlName="mobileNumber"
+            required
+          />
+          <div
+            *ngIf="form.get('mobileNumber')?.invalid && form.get('mobileNumber')?.touched"
+            class="error-message"
+          >
+            Mobile Number is required and must be numeric.
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td><label for="address">Address</label></td>
+        <td>
+          <input
+            type="text"
+            id="address"
+            class="form-control"
+            formControlName="address"
+            required
+          />
+          <div
+            *ngIf="form.get('address')?.invalid && form.get('address')?.touched"
+            class="error-message"
+          >
+            Address is required.
+          </div>
+        </td>
+      </tr>
+    </table>
+    <button type="submit" class="btn btn-signup">Order Now</button>
+  </form>
+</div>

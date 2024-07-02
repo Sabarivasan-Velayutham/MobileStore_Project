@@ -1,0 +1,43 @@
+
+<body>
+<h3 class="text-center my-5 users_title">Successful orders</h3>
+
+<div class="container">
+    <div class="card users_card">
+        <div class="card-body">
+            
+        
+    <table class="table table-striped text-center">
+        <tr>
+            <!-- <th>CId</th> -->
+            <!-- <th>User ID </th> -->
+            <!-- <th>Item Id</th> -->
+            <th>Item Name</th>
+            <th>Item Storage</th>
+            <th>Item Colour</th>
+            <th>Quantity</th>
+            <th>User Name</th>
+            <th>Mobile Number</th>
+            <th>Address</th>
+            
+        </tr>
+        <tr *ngFor="let cart of carts">
+            <!-- <td>{{cart.cId}}</td> -->
+            <!-- <td>{{cart.userId}}</td> -->
+            <!-- <td>{{cart.itemId}}</td> -->
+            <td>{{cart.itemName}}</td>
+            <td>{{cart.itemStorage}}</td>
+            <td>{{cart.itemColour}}</td>
+            <td>{{cart.quantity}}</td>
+            <td>{{cart.userName}}</td>
+            <td>{{cart.mobileNumber}}</td>
+            <td>{{cart.address}}</td>
+            
+           
+        </tr>
+    </table>
+
+</div>
+</div>
+</div>
+</body>

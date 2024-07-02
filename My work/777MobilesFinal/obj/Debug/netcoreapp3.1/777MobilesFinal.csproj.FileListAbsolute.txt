@@ -1,0 +1,441 @@
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\appsettings.json
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.exe
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.deps.json
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.runtimeconfig.json
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.runtimeconfig.dev.json
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.pdb
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.csproj.AssemblyReference.cache
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.AssemblyInfoInputs.cache
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.AssemblyInfo.cs
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.csproj.CoreCompileInputs.cache
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\777MobilesFinal.StaticWebAssets.Manifest.cache
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\777MobilesFinal.StaticWebAssets.Pack.cache
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.777MobilesFinal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.777MobilesFinal.props
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.777MobilesFinal.props
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.777MobilesFinal.props
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.RazorTargetAssemblyInfo.cache
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.csproj.CopyComplete
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.dll
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.pdb
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.genruntimeconfig.cache
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Log4net.config
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\log4net.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VS code projects\777MobilesFinal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VS code projects\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Log4net.config
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.exe
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.deps.json
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.runtimeconfig.json
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.runtimeconfig.dev.json
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.pdb
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.AssemblyInfo.cs
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\777MobilesFinal.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\777MobilesFinal.StaticWebAssets.Pack.cache
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.777MobilesFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.777MobilesFinal.props
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.777MobilesFinal.props
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.777MobilesFinal.props
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.csproj.CopyComplete
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.dll
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.pdb
+C:\Users\HP\Desktop\777mobilesvscom\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.genruntimeconfig.cache
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Log4net.config
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.exe
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.deps.json
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.runtimeconfig.json
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.runtimeconfig.dev.json
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\777MobilesFinal.pdb
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Internships\Freelancing\777MobilesFinal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.csproj.AssemblyReference.cache
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.AssemblyInfoInputs.cache
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.AssemblyInfo.cs
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.csproj.CoreCompileInputs.cache
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.MvcApplicationPartsAssemblyInfo.cs
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.RazorTargetAssemblyInfo.cache
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\777MobilesFinal.StaticWebAssets.Manifest.cache
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\777MobilesFinal.StaticWebAssets.Pack.cache
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.777MobilesFinal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.777MobilesFinal.props
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.777MobilesFinal.props
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.777MobilesFinal.props
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\777Mobil.48770268.Up2Date
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.dll
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.pdb
+D:\Internships\Freelancing\777MobilesFinal\obj\Debug\netcoreapp3.1\777MobilesFinal.genruntimeconfig.cache

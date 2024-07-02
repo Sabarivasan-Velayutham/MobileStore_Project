@@ -1,0 +1,39 @@
+<ng-container *ngIf="true">
+    <div class="card-table">
+        <div class="cart-product">
+            <table class="table table-responsive">
+                <thead>
+                    <tr>
+                        <th>CId</th>
+                        <th>UserId</th>
+                        <th>Item Id</th>
+                        <th>Item Name</th>
+                        <th>Item Storage</th>
+                        <th>Item Colour</th>
+                        <th>Quantity</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let item of item">
+                        <td>{{item.cId}}</td>
+                        <td>{{item.userId}}</td>
+                        <td>{{item.itemId}}</td>
+                        <td>{{item.itemName}}</td>
+                        <td>{{item.itemStorage}}</td>
+                        <td>{{item.itemColour}}</td>
+                        <td>{{item.quantity}}</td>
+                        
+                    <td>
+                        <button class="btn btn-danger"><i class="fas fa-trash-alt"></i></button>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+</ng-container>
+
+

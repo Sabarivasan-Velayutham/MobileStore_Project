@@ -1,0 +1,103 @@
+<h3 class="text-center my-5 items_title">Registered Items</h3>
+
+<a href="#" routerLink="/createAdmin" class="btn btn-success">Create New User</a>
+
+<div class="container">
+    <div class="card items_card">
+        <div class="card-body">
+            
+        
+    <table class="table table-striped text-center">
+        <tr>
+            <th>ItemId</th>
+            <th>ItemName</th>
+            <th>ItemImages</th>
+            <th>ItemPrice</th>
+            <th>ItemSpecification</th>
+            <th>ItemStorage</th>
+            <th>ItemColour</th>
+            <th>itemAvailability</th>
+            <th>Action</th>
+            
+        </tr>
+        <br>
+        <br>
+        <tr *ngFor="let post of posts ">
+            <td>{{post.itemId}}</td>
+            <td>{{post.itemName}}</td>
+            <img src="{{post.itemImages}}" alt="">
+            <td>{{post.itemPrice}}</td>
+            <td>{{post.itemSpecification}}</td>
+            <td>{{post.itemStorage}}</td>
+            <td>{{post.itemColour}}</td>
+            <td>{{post.itemAvailability}}</td>
+            
+            <td>
+
+                <a href="#" [routerLink]="['/readAdmin']" class="btn btn-info">View</a>
+                <br>
+                <br>
+                  <a href="#" [routerLink]="['/editAdmin']" class="btn btn-primary">Edit</a>
+                  <br>
+                  <br>
+                  <button type="button" (click)="deletePost(post.itemId)" class="btn btn-danger">Delete</button>
+            </td>
+        </tr>
+    </table>
+
+</div>
+</div>
+</div>
+
+
+
+.ts
+
+import { Component, OnInit } from '@angular/core';
+import { PostService } from '../post.service';
+import { Post } from '../post';
+
+@Component({
+  selector: 'app-view-items',
+  templateUrl: './view-items.component.html',
+  styleUrls: ['./view-items.component.css']
+})
+export class ViewItemsComponent implements OnInit {
+      
+  posts: Post[] = [];
+    
+  /*------------------------------------------
+  --------------------------------------------
+  Created constructor
+  --------------------------------------------
+  --------------------------------------------*/
+  constructor(public postService: PostService) { }
+    
+  /**
+   * Write code on Method
+   *
+   * @return response()
+   */
+  ngOnInit(): void {
+    this.postService.getAll().subscribe((data: Post[])=>{
+      this.posts = data;
+      console.log(this.posts);
+    })  
+  }
+    
+  /**
+   * Write code on Method
+   *
+   * @return response()
+   */
+  deletePost(id:number){
+    this.postService.delete(id).subscribe(res => {
+         this.posts = this.posts.filter(item => item.itemId !== id);
+         console.log('User deleted successfully!');
+    })
+  }
+    
+} 
+
+
+

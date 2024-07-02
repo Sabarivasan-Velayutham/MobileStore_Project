@@ -1,0 +1,102 @@
+<div class="container">
+    <h1 class="text-center my-3">Edit Profile</h1>
+
+    <div class="login-card"><img class="profile-img-card" src="assets/img/edit.png" />
+        <p class="profile-name-card"></p>
+        <form [formGroup]="form" (ngSubmit)="submit()" >
+        <div class="row">
+            <div class="col-md-6"><p class="text-center"><strong>ID:</strong></p>
+                <input 
+                formControlName="userId"
+                id="userId" 
+                type="text" 
+                [(ngModel)]="user.userId"
+                class="form-control" />
+            <div *ngIf="f['userId'].touched && f['userId'].invalid" class="alert alert-danger">
+                <div *ngIf="f['userId'].errors && f['userId'].errors['required']">UserId is required.</div>
+            </div>
+            </div>
+            <div class="col-md-6"><p class="text-center"><strong>Username:</strong></p>
+                <input 
+                formControlName="userName"
+                id="userName" 
+                type="text" 
+                [(ngModel)]="user.userName"
+                class="form-control" />
+            <div *ngIf="f['userName'].touched && f['userName'].invalid" class="alert alert-danger">
+                <div *ngIf="f['userName'].errors && f['userName'].errors['required']">Username is required.</div>
+            </div>
+            </div>
+        </div>
+       
+        <div class="row">
+            <div class="col-md-6"><p class="text-center"><strong>Email:</strong></p>
+                <input 
+                formControlName="emailId"
+                id="emailId" 
+                type="text" 
+                [(ngModel)]="user.emailId"
+                class="form-control" />
+            <div *ngIf="f['emailId'].touched && f['emailId'].invalid" class="alert alert-danger">
+                <div *ngIf="f['emailId'].errors && f['emailId'].errors['required']">Email Id is required.</div>
+            </div>
+            </div>
+            <div class="col-md-6"><p class="text-center"><strong>Mobile Number:</strong></p>
+                <input 
+                formControlName="mobileNumber"
+                id="mobileNumber" 
+                type="text" 
+                [(ngModel)]="user.mobileNumber"
+                class="form-control" />
+            <div *ngIf="f['mobileNumber'].touched && f['mobileNumber'].invalid" class="alert alert-danger">
+                <div *ngIf="f['mobileNumber'].errors && f['mobileNumber'].errors['required']">Mobile Number is required.</div>
+            </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6"><p class="text-center"><strong>Password:</strong></p>
+                <input 
+                formControlName="createPassword"
+                id="createPassword" 
+                type="password"
+                [(ngModel)]="user.createPassword"
+                class="form-control" />
+            <div *ngIf="f['createPassword'].touched && f['createPassword'].invalid" class="alert alert-danger">
+                <div *ngIf="f['createPassword'].errors && f['createPassword'].errors['required']">Password is required.</div>
+            </div>
+            </div>
+            <div class="col-md-6"><p class="text-center"><strong>Confirm Password:</strong></p>
+                <input 
+                formControlName="confirmPassword"
+                id="confirmPassword" 
+                type="password"
+                [(ngModel)]="user.confirmPassword"
+                class="form-control" />
+            <div *ngIf="f['confirmPassword'].touched && f['confirmPassword'].invalid" class="alert alert-danger">
+                <div *ngIf="f['confirmPassword'].errors && f['confirmPassword'].errors['required']">confirmPassword is required.</div>
+            </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12"><p class="text-center"><strong>User Type:</strong></p>
+                <input 
+                formControlName="usertype"
+                id="usertype" 
+                type="text"
+                [(ngModel)]="user.usertype" 
+                class="form-control" />
+            <div *ngIf="f['usertype'].touched && f['usertype'].invalid" class="alert alert-danger">
+                <div *ngIf="f['usertype'].errors && f['usertype'].errors['required']">User Type is required.</div>
+            </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 my-3"><p class="text-center my-2"><button class="btn btn-primary edit_profile_btn" type="submit" [disabled]="!form.valid">Update</button></p></div>
+        </div>
+    </form>
+        
+    </div>
+</div>

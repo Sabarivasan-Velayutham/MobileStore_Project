@@ -1,0 +1,21 @@
+<!-- <p>singleitem works!</p>
+<div *ngIf="selectedItem">
+    <h2>Selected Item Details</h2>
+    <img [src]="selectedItem.itemImages" alt="Selected Item" />
+    <h3>{{ selectedItem.itemName }}</h3>
+    <p><strong>Price:</strong> {{ selectedItem.itemPrice }}</p>
+    <p>{{ selectedItem.itemSpecification }}</p>
+  </div>
+   -->
+   <div *ngIf="selectedItem">
+    <h2>Selected Item Details</h2>
+    <div class="card">
+      <!-- <img [src]="selectedItem.itemImages" alt="Selected Item" /> -->
+      <h3>{{ selectedItem.itemName }}</h3>
+      <p><strong>Price:</strong> {{ selectedItem.itemPrice }}</p>
+      <p>{{ selectedItem.itemSpecification }}</p>
+    </div>
+  </div>
+  
+  
+  

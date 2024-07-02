@@ -1,0 +1,46 @@
+<h3 class="text-center my-5 items_title">Registered Items</h3>
+
+<a href="#" routerLink="/createAdmin" class="btn btn-success">Register New Item</a>
+
+<div class="container">
+    <div class="card items_card">
+        <div class="card-body">
+            
+        
+    <table class="table table-striped text-center">
+        <tr>
+            <th>ItemId</th>
+            <th>ItemName</th>
+            <th>ItemImages</th>
+            <th>ItemPrice</th>
+            <th>ItemSpecification</th>
+            <th>ItemStorage</th>
+            <th>ItemColour</th>
+            <th>itemAvailability</th>
+            <th>Action</th>
+            
+        </tr>
+        <br>
+        <br>
+        <tr *ngFor="let post of posts ">
+            <td>{{post.itemId}}</td>
+            <td>{{post.itemName}}</td>
+            <img src="{{post.itemImages}}" alt="">
+            <td>{{post.itemPrice}}</td>
+            <td>{{post.itemSpecification}}</td>
+            <td>{{post.itemStorage}}</td>
+            <td>{{post.itemColour}}</td>
+            <td>{{post.itemAvailability}}</td>
+            
+            <td>
+
+               
+            
+                  <button type="button" (click)="deletePost(post.itemId)" class="btn btn-danger">Delete</button>
+            </td>
+        </tr>
+    </table>
+
+</div>
+</div>
+</div>

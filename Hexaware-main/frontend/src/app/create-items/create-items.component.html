@@ -1,0 +1,98 @@
+<div class="container">
+    <h1>Register New Item</h1>
+  
+    <a href="#" routerLink="/viewItems" class="btn btn-primary">Back</a>
+        
+    <form [formGroup]="form" (ngSubmit)="submit()">
+  
+        <div class="form-group">
+            <label for="itemName">Item Name:</label>
+            <input 
+                formControlName="itemName"
+                id="itemName" 
+                type="text" 
+                class="form-control">
+            <div *ngIf="f['itemName'].touched && f['itemName'].invalid" class="alert alert-danger">
+                <div *ngIf="f['itemName'].errors && f['itemName'].errors['required']">Item Name is required.</div>
+            </div>
+        </div>
+  
+        <div class="form-group">
+            <label for="itemPrice">Item Price:</label>
+            <input 
+                formControlName="itemPrice"
+                id="itemPrice" 
+                type="text" 
+                class="form-control" />
+            <div *ngIf="f['itemPrice'].touched && f['itemPrice'].invalid" class="alert alert-danger">
+                <div *ngIf="f['itemPrice'].errors && f['itemPrice'].errors['required']">Item Price is required.</div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="itemSpecification">Item Specification:</label>
+            <textarea
+                formControlName="itemSpecification"
+                id="itemSpecification" 
+                type="text" 
+                class="form-control">
+            </textarea>
+            <div *ngIf="f['itemSpecification'].touched && f['itemSpecification'].invalid" class="alert alert-danger">
+                <div *ngIf="f['itemSpecification'].errors && f['itemSpecification'].errors['required']">Item Specification is required.</div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="itemStorage">Item Storage:</label>
+            <input 
+                formControlName="itemStorage"
+                id="itemStorage" 
+                type="text" 
+                class="form-control" />
+            <div *ngIf="f['itemStorage'].touched && f['itemStorage'].invalid" class="alert alert-danger">
+                <div *ngIf="f['itemStorage'].errors && f['itemStorage'].errors['required']">Item Storage is required.</div>
+            </div>
+        
+
+      
+            <label for="itemColour">Item Colour</label>
+            <input 
+                formControlName="itemColour"
+                id="itemColour" 
+                type="text" 
+                class="form-control" />
+            <div *ngIf="f['itemColour'].touched && f['itemColour'].invalid" class="alert alert-danger">
+                <div *ngIf="f['itemColour'].errors && f['itemColour'].errors['required']">Item Colour is required.</div>
+            </div>
+        </div>
+     
+
+        <div class="form-group">
+            <label for="itemAvailability">Item Availability:</label>
+            <input 
+                formControlName="itemAvailability"
+                id="itemAvailability" 
+                type="text" 
+                class="form-control" />
+            <div *ngIf="f['itemAvailability'].touched && f['itemAvailability'].invalid" class="alert alert-danger">
+                <div *ngIf="f['itemAvailability'].errors && f['itemAvailability'].errors['required']">Item Availability is required.</div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="itemImages">Item Images:</label>
+            <input 
+                formControlName="itemImages"
+                id="itemImages" 
+                type="text" 
+                class="form-control" />
+            <div *ngIf="f['itemImages'].touched && f['itemImages'].invalid" class="alert alert-danger">
+                <div *ngIf="f['itemImages'].errors && f['itemImages'].errors['required']">Item Images is required.</div>
+            </div>
+        </div>
+
+        <button class="btn btn-primary" type="submit" [disabled]="!form.valid">Submit</button>
+    </form>
+</div>
+
+

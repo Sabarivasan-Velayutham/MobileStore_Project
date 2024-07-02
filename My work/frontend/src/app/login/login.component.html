@@ -1,0 +1,102 @@
+<br>
+<br>
+<br>
+<div class = "container">
+<div class = "centered-content"> 
+<form class="form-signin" (ngSubmit)="Login(Email,Password)" #loginForm="ngForm">
+    <img class="profile-img-card" src="assets/img/Login.jpeg" />
+    <span class="reauth-email"></span>
+
+    <!-- Email address input with validation -->
+    <div class="form-group">
+        <input type="email" class="form-control" id="inputEmail" required placeholder="Email address" [(ngModel)]="Email" name="email" #emailField="ngModel"/>
+        <div
+            *ngIf="emailField.touched && emailField.invalid"
+            class="alert alert-danger"
+        >
+        <div *ngIf="emailField.errors && emailField.errors['required']">Email Id is required.</div>
+        <div *ngIf="emailField.errors && emailField.errors['email']">Invalid email format.</div>
+        </div>
+    </div>
+
+    <!-- Password input with validation -->
+    <div class="form-group">
+        <input
+            type="password"
+            class="form-control"
+            id="inputPassword"
+            required
+            placeholder="Password"
+            [(ngModel)]="Password"
+            name="password"
+            #passwordField="ngModel"
+        />
+        <div
+            *ngIf="passwordField.touched && passwordField.invalid"
+            class="alert alert-danger"
+        >
+        <div *ngIf="passwordField.errors && passwordField.errors['required']">Password is required.</div>
+        </div>
+    </div>
+
+    <button
+        class="btn btn-primary btn-block btn-lg btn-signin"
+        type="submit"
+        [disabled]="loginForm.invalid"
+    >
+        Sign in
+    </button>
+    <br>
+    <!-- <a (click)="signup()">New User?</a> -->
+    <a class="forgot-password" (click)="signup()">New User ?</a>
+</form>
+</div>
+</div>
+
+<!-- <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<footer class="footer">
+    <div class="footer_wrapper">
+        <ul>
+            <li>Trade-in values will vary based on the condition, year and configuration of your trade-in device, and is computed on Maximum Retail 
+                Price. You must be at least 18 years old to be eligible to trade in for credit. Not all devices are eligible for credit. 
+                More details are available from trade-in partner for trade-in and recycling of eligible devices. Restrictions and 
+                limitations may apply. Credit applied towards your new Phone will be based on the received device matching the description you 
+                provided when your estimate was made and upon validation by the courier.
+                  </li>
+
+            <li>For any Queries call : 000800 040 1966</li>
+           
+
+           
+            </ul>
+
+        <div class="footer__copyright">
+            <p>Copyright © 2023 777 Mobiles Inc. All rights reserved.</p>
+            <a href="">India</a>
+     
+        
+       
+
+        <div class="links">
+            <a href="">Privacy Policy</a>
+            <a href="">Terms of Use</a>
+           <a href="">Sales Policy</a>
+            <a href="">Legal</a>
+            <a href="">Site Map</a>
+    
+    </div>
+    </div>
+    </div>
+   
+  
+    
+            <style>
+               
+
+            </style> -->

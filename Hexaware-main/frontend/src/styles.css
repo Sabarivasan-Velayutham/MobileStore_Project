@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+
+   a{
+    padding: 0 10px;
+    color: #515154;
+    border-left: 1px solid var(--greyLight);
+    
+   }
+
+   a:nth-child(1){
+    border:none;
+   }
+   
+
+   
+
+
+
+    
+  
+
+
+  
+  

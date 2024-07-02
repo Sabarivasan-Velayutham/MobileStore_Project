@@ -1,0 +1,61 @@
+<br>
+<div class="payment-container">
+  <h2 class="payment-heading">Card Payment</h2>
+  <form (ngSubmit)="onProceedToPaymentClick()" [formGroup]="form">
+    <!-- Card Number -->
+    <div class="form-group">
+      <label class="label" for="cardNumber">Card Number:</label>
+      <input type="text" id="cardNumber" class="input-field card-number" placeholder="1234 5678 9012 3456"
+        pattern="[0-9]{16}" maxlength="16" required formControlName="cardNumber">
+      <div class="error-message" *ngIf="form.get('cardNumber')?.hasError('required') && form.get('cardNumber')?.touched">
+        Card Number is required.
+      </div>
+      <div class="error-message" *ngIf="form.get('cardNumber')?.hasError('pattern') && form.get('cardNumber')?.touched">
+        Please enter a valid 16-digit card number.
+      </div>
+    </div>
+
+    <!-- Cardholder Name -->
+    <div class="form-group">
+      <label class="label" for="cardName">Cardholder Name:</label>
+      <input type="text" id="cardName" class="input-field" placeholder="John Doe"
+        required formControlName="cardName">
+      <div class="error-message" *ngIf="form.get('cardName')?.hasError('required') && form.get('cardName')?.touched">
+        Cardholder name is required.
+      </div>
+    </div>
+
+    <!-- Expiry Date -->
+    <div class="form-group">
+      <label class="label" for="expiryDate">Expiry Date:</label>
+      <input type="text" id="expiryDate" class="input-field card-expiry" placeholder="MM/YYYY"
+        formControlName="expiryDate">
+      <div class="error-message" *ngIf="form.get('expiryDate')?.hasError('required') && form.get('expiryDate')?.touched">
+        Expiry date is required.
+      </div>
+      <div class="error-message" *ngIf="form.get('expiryDate')?.hasError('invalidExpiryDate') && form.get('expiryDate')?.touched">
+        Please enter a valid MM/YYYY expiry date.
+      </div>
+      <div class="error-message" *ngIf="form.get('expiryDate')?.hasError('expiredExpiryDate') && form.get('expiryDate')?.touched">
+        Expiry date cannot be in the past.
+      </div>
+    </div>
+
+    <!-- CVV -->
+    <div class="form-group">
+      <label class="label" for="cvv">CVV:</label>
+      <input type="text" id="cvv" class="input-field card-cvv" placeholder="123"
+        pattern="[0-9]{3}" maxlength="3" required formControlName="cvv">
+      <div class="error-message" *ngIf="form.get('cvv')?.hasError('required') && form.get('cvv')?.touched">
+        CVV is required.
+      </div>
+      <div class="error-message" *ngIf="form.get('cvv')?.hasError('pattern') && form.get('cvv')?.touched">
+        Please enter a valid 3-digit CVV.
+      </div>
+    </div>
+    <button class="submit-button" (click)="onProceedToPaymentClick()" [disabled]="form.invalid">Proceed with Card Payment</button>
+
+
+    <br>
+  </form>
+</div>

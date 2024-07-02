@@ -1,0 +1,44 @@
+.collapse ul li a:hover{
+    color: #000000;
+}
+.container-fluid a:hover{
+    color: #000000;
+}
+
+.form-control{
+    border-radius: 3px;
+    width: 350px;
+    margin-left: 400px;
+    
+    
+}
+
+.profile{
+    width: 32px;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-left: 86%;
+}
+
+.logout{
+    width: 32px;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-left: 1%;
+}
+/* Style the Go Back button */
+.go-back-button {
+    background-color: #34393f; /* Change the background color */
+    color: #ffffff; /* Change the text color */
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 8px 16px; /* Add padding to the button */
+    margin-right: 10px; /* Adjust the margin as needed */
+  }
+  
+  .go-back-button:hover {
+    background-color: #0056b3; /* Change the background color on hover */
+    color: #ffffff; /* Change the text color on hover */
+  }
+  

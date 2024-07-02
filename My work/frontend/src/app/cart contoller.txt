@@ -1,0 +1,98 @@
+ [Route("api/[controller]")]
+    [ApiController]
+    public class CartsController : ControllerBase
+    {
+		private readonly _777MobilesFinalContext _context;
+
+		public CartsController(_777MobilesFinalContext context)
+		{
+			_context = context;
+		}
+
+		// GET: api/Carts
+		[HttpGet]
+		public async Task<ActionResult<IEnumerable<Cart>>> GetAddToCart()
+		{
+			return await _context.AddToCart.ToListAsync();
+		}
+
+		// GET: api/Carts/5
+		[HttpGet("{id}")]
+		public async Task<ActionResult<Cart>> GetCart(int id)
+		{
+			var booking = await _context.AddToCart.FindAsync(id);
+
+			if (booking == null)
+			{
+				return NotFound();
+			}
+
+			return booking;
+		}
+
+		// PUT: api/Bookings/5
+		// To protect from overposting attacks, enable the specific properties you want to bind to, for
+		// more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
+		[HttpPut("{id}")]
+		public async Task<ActionResult<Cart>> PutCart(int id, Cart cart)
+		{
+			if (id != cart.CId)
+			{
+				return BadRequest();
+			}
+
+			_context.Entry(cart).State = EntityState.Modified;
+
+			try
+			{
+				await _context.SaveChangesAsync();
+			}
+			catch (DbUpdateConcurrencyException)
+			{
+				if (!CartExists(id))
+				{
+					return NotFound();
+				}
+				else
+				{
+					throw;
+				}
+			}
+
+			return NoContent();
+		}
+
+		// POST: api/Bookings
+		// To protect from overposting attacks, enable the specific properties you want to bind to, for
+		// more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
+		[HttpPost]
+		public async Task<ActionResult<Cart>> PostCart(Cart cart)
+		{
+			_context.AddToCart.Add(cart);
+			await _context.SaveChangesAsync();
+
+			return CreatedAtAction("GetBooking", new { id = cart.CId }, cart);
+		}
+
+		// DELETE: api/Bookings/5
+		[HttpDelete("{id}")]
+		public async Task<ActionResult<Cart>> DeleteCart(int id)
+		{
+			var booking = await _context.AddToCart.FindAsync(id);
+			if (booking == null)
+			{
+				return NotFound();
+			}
+
+			_context.AddToCart.Remove(booking);
+			await _context.SaveChangesAsync();
+
+			return booking;
+		}
+
+		private bool CartExists(int id)
+		{
+			return _context.AddToCart.Any(e => e.CId == id);
+		}
+	}
+}

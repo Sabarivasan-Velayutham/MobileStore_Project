@@ -1,0 +1,32 @@
+<html>
+<body>
+<nav class="navbar navbar-dark navbar-expand-md bg-dark">
+    <img src="assets/img/backbutton.png" [hidden]="!IsLoggedIn" class="logout" (click)="goBack()">
+    <div class="container-fluid"><a class="navbar-brand" routerLink="">777 Mobile Store</a>
+        <button data-toggle="collapse" data-target="#navcol-1" class="navbar-toggler">
+            <span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span>
+        </button>
+       
+        <div class="collapse navbar-collapse" id="navcol-1">
+            <ul class="nav navbar-nav">
+                <li [hidden]="IsLoggedIn" class="nav-item"><a class="nav-link active" routerLink="/login">Login</a></li>
+
+                <li [hidden]="IsLoggedIn" class="nav-item"><a class="nav-link active" routerLink="/signup">Signup</a></li>
+
+                <li [hidden]="!IsLoggedIn" class="nav-item"><a class="nav-link active" routerLink="/customerDashboard">Dashboard</a></li>
+                
+                <li [hidden]="!IsLoggedIn" class="nav-item"><a class="nav-link active" routerLink="/userbookings/{{userId}}">My Orders</a></li>
+            </ul>
+            <img src="assets/img/profile.png" [hidden]="!IsLoggedIn"  class="profile" routerLink="/viewProfile/{{userId}}">
+            <img src="assets/img/logo.png" [hidden]="!IsLoggedIn" class="logout" (click)="Logout()">
+            <!-- <img src="assets/img/atc.png" [hidden]="!IsLoggedIn" class="logout" (click)="addToCart()">     -->
+            
+
+        </div>
+    </div>
+        
+
+</nav>
+
+</body>
+</html>

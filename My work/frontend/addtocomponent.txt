@@ -1,0 +1,99 @@
+<div class="register-card"><img class="profile-img-card" src="assets/img/bookmobile.jpeg" />
+    <p class="profile-name-card"></p>
+    <form [formGroup]="form" (ngSubmit)="submit()"  class="form-signup"><span class="reauth-email"></span>
+        <!-- <div *ngFor="let value of posts"> -->
+        <div class="row">
+            <div class="col-md-6 form-group">
+                <input #Email formControlName="userId"  [(ngModel)]="userdetail.userId" type="number" class="form-control input_userid" id="userId" required placeholder="User Id" readonly/>
+                <div *ngIf="f['userId'].touched && f['userId'].invalid" class="alert alert-danger my-2">
+                    <div *ngIf="f['userId'].errors && f['userId'].errors['required']">User Id is required.</div>
+                </div>
+            </div>
+            <div class="col-md-6 form-group">
+                <input #Email formControlName="itemId" type="number" class="form-control input_itemid" id="itemId" required placeholder="Item Id" />
+                <div *ngIf="f['itemId'].touched && f['itemId'].invalid" class="alert alert-danger">
+                    <div *ngIf="f['itemId'].errors && f['itemId'].errors['required']">Item Id is required.</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 form-group">
+                <input #Email formControlName="itemName" type="text" class="form-control input_userid" id="itemName" required placeholder="Item Name" />
+                <div *ngIf="f['itemName'].touched && f['itemName'].invalid" class="alert alert-danger my-2">
+                    <div *ngIf="f['itemName'].errors && f['itemName'].errors['required']">Item Name is required.</div>
+                </div>
+            </div>
+            <!-- <div class="col-md-6 form-group">
+                <input #Email formControlName="itemStorage" type="text" class="form-control" id="itemStorage" required placeholder="Item Storage" />
+                <div *ngIf="f['itemStorage'].touched && f['itemStorage'].invalid" class="alert alert-danger">
+                    <div *ngIf="f['itemStorage'].errors && f['itemStorage'].errors['required']">Item Storage is required.</div>
+                </div>
+            </div> -->
+            <div class="col-md-6 form-group">
+                <!-- <label for="itemStorage">Item Storage:</label> -->
+                <select formControlName="itemStorage" class="form-control" id="itemStorage" required>
+                  <option value="">Select Storage</option>
+                   <!-- Add an empty option for initial selection -->
+                  <option value="128GB">128GB</option> <!-- Option 1 -->
+                  <option value="256GB">256GB</option> <!-- Option 2 -->
+                  <option value="512GB">512GB</option> <!-- Option 3 -->
+                </select>
+                <div *ngIf="f['itemStorage'].touched && f['itemStorage'].invalid" class="alert alert-danger">
+                  <div *ngIf="f['itemStorage'].errors && f['itemStorage'].errors['required']">Item Storage is required.</div>
+                </div>
+              </div>
+              
+        </div>
+        
+        
+        <div class="row">
+             <div class="col-md-6 form-group">
+                <input #Email formControlName="itemColour" type="text" class="form-control" id="itemColour" required placeholder="Item Colour" />
+                <div *ngIf="f['itemColour'].touched && f['itemColour'].invalid" class="alert alert-danger">
+                    <div *ngIf="f['itemColour'].errors && f['itemColour'].errors['required']">Item Colour is required.</div>
+                </div>
+            </div>
+            
+            <div class="col-md-6 form-group">
+                <input #Email formControlName="quantity" type="number" class="form-control input_userid" id="quantity" required placeholder="Quantity" />
+                <div *ngIf="f['quantity'].touched && f['quantity'].invalid" class="alert alert-danger my-2">
+                    <div *ngIf="f['quantity'].errors && f['quantity'].errors['required']">Quantity is required.</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 form-group">
+                <input #Email formControlName="userName"  [(ngModel)]="userdetail.userName" type="text" class="form-control input_userid" id="userName" required placeholder="User Name" />
+                <div *ngIf="f['userName'].touched && f['userName'].invalid" class="alert alert-danger my-2">
+                    <div *ngIf="f['userName'].errors && f['userName'].errors['required']">User Name is required.</div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="row">
+            <div class="col-md-6 form-group">
+                <input #Email formControlName="mobileNumber" [(ngModel)]="userdetail.mobileNumber" type="text" class="form-control input_userid" id="mobileNumber" required placeholder=" Mobile Number" />
+                <div *ngIf="f['mobileNumber'].touched && f['mobileNumber'].invalid" class="alert alert-danger my-2">
+                    <div *ngIf="f['mobileNumber'].errors && f['mobileNumber'].errors['required']">Mobile Number is required.</div>
+                    <div *ngIf="f['mobileNumber'].errors && f['mobileNumber'].errors['minlength']">Mobile Number should be of 10 digits.</div>
+                    <div *ngIf="f['mobileNumber'].errors && f['mobileNumber'].errors['maxlength']">Mobile Number should be of 10 digits.</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 form-group">
+                <input #Email formControlName="address" type="text" class="form-control" id="address" required placeholder="Address" />
+                <div *ngIf="f['address'].touched && f['address'].invalid" class="alert alert-danger">
+                    <div *ngIf="f['address'].errors && f['address'].errors['required']">Address is required.</div>
+                </div>
+            </div>
+        </div>
+        <button class="btn btn-primary btn-block btn-lg btn-signup" type="submit">Payment</button>
+        <!--<button (click)="onpaymentClick()">Payment</button>-->
+        <!-- <button (click)="navigateToPayment()" routerLink="payment">Payment</button>  -->
+        
+        <!-- </div> -->
+        </form>

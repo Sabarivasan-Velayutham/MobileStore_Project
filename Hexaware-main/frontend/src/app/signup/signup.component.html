@@ -1,0 +1,97 @@
+<div class="register-card"><img class="profile-img-card" src="assets/img/Signup.png" />
+    <p class="profile-name-card"></p>
+    <form [formGroup]="form" (ngSubmit)="submit()"  class="form-signup"><span class="reauth-email"></span>
+        <div class="row">
+            <div class="col-md-6 form-group">
+                <input #Email formControlName="userName" type="text" class="form-control" id="userName" required placeholder="UserName" autofocus />
+                <div *ngIf="f['userName'].touched && f['userName'].invalid" class="alert alert-danger">
+                    <div *ngIf="f['userName'].errors && f['userName'].errors['required']">User Name is required.</div>
+                    <div *ngIf="f['userName'].errors && f['userName'].errors['minlength']">UserName should be of minimum of 4 characters.</div>
+                    <div *ngIf="f['userName'].errors && f['userName'].errors['maxlength']">UserName should be of maximum of 20 characters.</div>
+                </div>
+            </div>
+            
+            <div class="col-md-6 form-group">
+                <input #Email formControlName="emailId" type="email" class="form-control" id="emailId" required placeholder="Email address" autofocus />
+                <div *ngIf="f['emailId'].touched && f['emailId'].invalid" class="alert alert-danger">
+                    <div *ngIf="f['emailId'].errors && f['emailId'].errors['required']">Email is required.</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 form-group">
+                <input #Email formControlName="mobileNumber" type="text" class="form-control" id="mobileNumber" required placeholder="Mobile Number" autofocus />
+                <div *ngIf="f['mobileNumber'].touched && f['mobileNumber'].invalid" class="alert alert-danger">
+                    <div *ngIf="f['mobileNumber'].errors && f['mobileNumber'].errors['required']">Mobile Number is required.</div>
+                </div>
+            </div>
+                <div class="col-md-6 form-group">
+                    <input #PWD formControlName="usertype" type="text" class="form-control" id="usertype" required placeholder="User Type" />
+                    <div *ngIf="f['usertype'].touched && f['usertype'].invalid" class="alert alert-danger">
+                        <div *ngIf="f['usertype'].errors && f['usertype'].errors['required']">User Type is required.</div>
+                    </div>
+                </div>
+             </div>
+            <div class="row">
+            <div class="col-md-6 form-group">
+                <input #Email formControlName="createPassword" type="password" class="form-control" id="createPassword" required placeholder="Create Password" autofocus />
+                <div *ngIf="f['createPassword'].touched && f['createPassword'].invalid" class="alert alert-danger">
+                    <div *ngIf="f['createPassword'].errors && f['createPassword'].errors['required']">Password is required.</div>
+                    <div *ngIf="f['createPassword'].errors && f['createPassword'].errors['minlength']">Password should be of minimum of 4 characters.</div>
+                    <div *ngIf="f['createPassword'].errors && f['createPassword'].errors['maxlength']">Password should be of maximum of 8 characters.</div>
+                </div>
+            </div>
+            <div class="col-md-6 form-group">
+                <input #PWD formControlName="confirmPassword" type="password" class="form-control" id="inputPassword" required placeholder="Confirm Password" />
+                <div *ngIf="f['confirmPassword'].touched && f['confirmPassword'].invalid" class="alert alert-danger">
+                    <div *ngIf="f['confirmPassword'].errors && f['confirmPassword'].errors['required']">Confirm Password is required.</div>
+                </div>
+            </div>
+         </div>
+
+            
+        <button class="btn btn-primary btn-block btn-lg btn-signup" type="submit" [disabled]="!form.valid">Sign Up</button>
+        </form>
+            <a class="forgot-password" routerLink="/login">Already a User ?</a></div>
+
+
+        <br>
+        <br>
+        <br>
+       
+
+            <footer class="footer">
+                <div class="footer_wrapper">
+                    <ul>
+                        <li>Trade-in values will vary based on the condition, year and configuration of your trade-in device, and is computed on Maximum Retail 
+                            Price. You must be at least 18 years old to be eligible to trade in for credit. Not all devices are eligible for credit. 
+                            More details are available from trade-in partner for trade-in and recycling of eligible devices. Restrictions and 
+                            limitations may apply. Credit applied towards your new Phone will be based on the received device matching the description you 
+                            provided when your estimate was made and upon validation by the courier.
+                              </li>
+            
+                        <li>For any Queries call : 000800 040 1966</li>
+                       
+            
+                       
+                        </ul>
+            
+                    <div class="footer__copyright">
+                        <p>Copyright © 2023 777 Mobiles Inc. All rights reserved.</p>
+                        <a href="">India</a>
+                 
+                    
+                   
+            
+                    <div class="links">
+                        <a href="">Privacy Policy</a>
+                        <a href="">Terms of Use</a>
+                       <a href="">Sales Policy</a>
+                        <a href="">Legal</a>
+                        <a href="">Site Map</a>
+                
+                </div>
+                </div>
+                </div>
+                </footer>

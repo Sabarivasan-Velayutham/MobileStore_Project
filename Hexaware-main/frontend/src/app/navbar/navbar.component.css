@@ -1,0 +1,28 @@
+.collapse ul li a:hover{
+    color: #000000;
+}
+.container-fluid a:hover{
+    color: #000000;
+}
+
+.form-control{
+    border-radius: 3px;
+    width: 350px;
+    margin-left: 400px;
+    
+    
+}
+
+.profile{
+    width: 32px;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-left: 88%;
+}
+
+.logout{
+    width: 32px;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-left: 1%;
+}

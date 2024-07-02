@@ -1,0 +1,93 @@
+<div class="container">
+    <h1>View User</h1>
+  
+    <a href="#" routerLink="/post/index" class="btn btn-primary">Back</a>
+   
+    <div>
+        <strong>Item Id:</strong>
+        <p>{{ post.itemId }}</p>
+    </div>
+   
+    <div>
+        <strong>Item Name:</strong>
+        <p>{{ post.itemName }}</p>
+    </div>
+   
+    <div>
+        <strong>Item Price:</strong>
+        <p>{{ post.itemPrice }}</p>
+    </div>
+
+    <div>
+        <strong>Item Specification:</strong>
+        <p>{{ post.itemSpecification }}</p>
+    </div>
+
+    <div>
+        <strong>Item Storage:</strong>
+        <p>{{ post.itemStorage }}</p>
+    </div>
+
+    <div>
+        <strong>Item Colour:</strong>
+        <p>{{ post.itemColour }}</p>
+    </div>
+
+    <div>
+        <strong>Item Availability:</strong>
+        <p>{{ post.itemAvailability }}</p>
+    </div>
+
+    <div>
+        <strong>Item Images:</strong>
+        <img src="{{post.itemImages}}" alt="">
+    </div>
+   
+</div>
+
+
+
+.ts
+
+import { Component, OnInit } from '@angular/core';
+import { PostService } from '../post.service';
+import { ActivatedRoute, Router } from '@angular/router';
+import { Post } from '../post';
+
+@Component({
+  selector: 'app-read-items',
+  templateUrl: './read-items.component.html',
+  styleUrls: ['./read-items.component.css']
+})
+export class ReadItemsComponent implements OnInit {
+     
+  itemId!: number;
+  post!: Post;
+    
+  /*------------------------------------------
+  --------------------------------------------
+  Created constructor
+  --------------------------------------------
+  --------------------------------------------*/
+  constructor(
+    public postService: PostService,
+    private route: ActivatedRoute,
+    private router: Router
+   ) { }
+    
+  /**
+   * Write code on Method
+   *
+   * @return response()
+   */
+  ngOnInit(): void {
+    this.itemId = this.route.snapshot.params['postId'];
+        
+    this.postService.find(this.itemId).subscribe((data: Post)=>{
+      this.post = data;
+    });
+  }
+    
+}
+
+

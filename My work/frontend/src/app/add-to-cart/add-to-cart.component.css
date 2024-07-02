@@ -1,0 +1,52 @@
+
+  /* Basic CSS for the form container */
+  .form-container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+
+  /* Style for the h1 header */
+  .form-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  /* Style for the table */
+  .table-form {
+    width: 100%;
+  }
+
+  /* Style for form labels */
+  .table-form label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+    font-weight: bold;
+  }
+
+  /* Style for form input fields */
+  .form-control {
+    width: 100%;
+    padding: 5px;
+    margin: 5px 0;
+  }
+
+  /* Style for the error messages */
+  .error-message {
+    color: red;
+    font-size: 14px;
+  }
+
+  /* Style for the "Order Now" button */
+  .btn-signup {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+  }
